@@ -1,0 +1,7 @@
+{
+  "repos": [
+    "S-zhi/Subtitles-AI"
+  ],
+  "trigger_label": "openhands-review",
+  "review_tone": "concise"
+}

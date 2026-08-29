@@ -1,0 +1,8 @@
+{
+  "repos": [
+    "S-zhi/Subtitles-AI"
+  ],
+  "trigger_label": "openhands",
+  "branch_prefix": "openhands/issue",
+  "pull_request_mode": "ready"
+}
