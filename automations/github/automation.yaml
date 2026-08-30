@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 entrypoint: .venv/bin/python main.py
 keep_alive: null
 model: null
