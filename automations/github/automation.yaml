@@ -2,7 +2,7 @@ enabled: true
 entrypoint: .venv/bin/python main.py
 keep_alive: null
 model: null
-name: "GitHub \u5927\u9700\u6C42\u5B8C\u5584\u4E0E\u62C6\u5206"
+name: "Human\u9700\u6C42\u62C6\u89E3"
 preset_metadata:
   preset_type: prompt
   prompt: "\u4F60\u662F S-zhi/Subtitles-AI \u4ED3\u5E93\u7684\u5927\u9700\u6C42\u5B8C\

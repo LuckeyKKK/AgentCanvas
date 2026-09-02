@@ -2,7 +2,7 @@ enabled: true
 entrypoint: python3 main.py
 keep_alive: null
 model: null
-name: "\u3010OK\u3011GitHub \u4EE3\u7801\u5BA1\u67E5\u8005 - S-zhi/Subtitles-AI"
+name: "\u3010OK\u3011\u4EE3\u7801Review"
 preset_metadata:
   first_run:
     failure_stage: dispatch
