@@ -509,7 +509,7 @@ tarball_executables:
 tarball_source:
   type: internal
   url: null
-timeout: 600
+timeout: 1800
 trigger:
   schedule: 0 13,17,21 * * *
   timezone: Asia/Singapore
