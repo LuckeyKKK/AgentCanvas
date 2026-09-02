@@ -2,7 +2,7 @@ enabled: true
 entrypoint: .venv/bin/python main.py
 keep_alive: null
 model: null
-name: "\u3010OK\u3011GitHub Issue \u5F00\u53D1\u4E0E\u4EA4\u53C9 Review \u4EA4\u63A5"
+name: "\u3010OK\u3011\u4EE3\u7801Review\u72B6\u6001\u66F4\u65B0"
 preset_metadata:
   preset_type: prompt
   prompt: "\u4F60\u662F S-zhi/Subtitles-AI \u4ED3\u5E93\u7684 Pull Request Review\

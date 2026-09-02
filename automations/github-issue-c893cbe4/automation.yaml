@@ -2,7 +2,7 @@ enabled: true
 entrypoint: .venv/bin/python main.py
 keep_alive: null
 model: null
-name: "\u3010OK\u3011GitHub Issue \u95EE\u9898\u5206\u5BA1-S-zhi/Subtitles-AI"
+name: "\u3010OK\u3011\u95EE\u9898\u5206\u5BA1"
 preset_metadata:
   preset_type: prompt
   prompt: "\u4F60\u662F S-zhi/Subtitles-AI \u4ED3\u5E93\u7684 GitHub Issue \u95EE\u9898\
