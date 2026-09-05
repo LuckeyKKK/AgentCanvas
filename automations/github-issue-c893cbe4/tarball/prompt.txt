@@ -44,7 +44,7 @@
 
 1. 使用 GitHub 集成或 GITHUB_TOKEN 查询：
 
-   repo:S-zhi/Subtitles-AI is:issue is:open label:needs-triage
+   repo:S-zhi/LynxSense is:issue is:open label:needs-triage
 
    分页读取全部结果，按创建时间从早到晚排序。绝不输出令牌。
 
@@ -75,7 +75,7 @@
 
 6. 单个 Issue 处理失败不能影响另一个已选中的 Issue。记录失败后继续处理本次已经选择的下一个 Issue。
 
-7. 所有写操作仅限 S-zhi/Subtitles-AI。不要删除与分审无关的用户标签。
+7. 所有写操作仅限 S-zhi/LynxSense。不要删除与分审无关的用户标签。
 
 8. 首次运行时确认以下标签存在：
 
