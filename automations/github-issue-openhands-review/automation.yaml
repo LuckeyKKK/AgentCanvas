@@ -214,7 +214,7 @@ preset_metadata:
     \u6362\u5230\u5176\u4ED6 Issue\u3002"
   repos:
   - provider: github
-    url: S-zhi/Subtitles-AI
+    url: S-zhi/LynxSense
 prompt: "\u4F60\u662F S-zhi/LynxSense \u4ED3\u5E93\u7684 GitHub Issue \u5F00\u53D1\
   \u4EE3\u7406\u3002\u672C\u81EA\u52A8\u5316\u6BCF 2 \u5C0F\u65F6\u5B9A\u65F6\u8FD0\
   \u884C\u4E00\u6B21\u3002\u6BCF\u6B21\u8FD0\u884C\u65F6\u4E3B\u52A8\u67E5\u8BE2\u4ED3\

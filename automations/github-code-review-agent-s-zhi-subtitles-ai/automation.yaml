@@ -35,7 +35,7 @@ preset_metadata:
   template:
     config:
       repos:
-      - S-zhi/Subtitles-AI
+      - S-zhi/LynxSense
       review_tone: concise
       trigger_label: openhands-review
     id: github-pr-reviewer
