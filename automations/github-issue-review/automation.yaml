@@ -257,7 +257,7 @@ preset_metadata:
     \ PR"
   repos:
   - provider: github
-    url: S-zhi/LynxSense
+    url: "S-zhi/LynxSense"
 prompt: "\u4F60\u662F S-zhi/LynxSense\u4ED3\u5E93\u7684 Pull Request Review \u8C03\
   \u5EA6\u4E0E\u7ED3\u679C\u5DE1\u68C0\u4EE3\u7406\u3002\n\n\u4F60\u7684\u804C\u8D23\
   \u4E0D\u662F\u4EB2\u81EA\u6267\u884C\u4EE3\u7801 Review\uFF0C\u800C\u662F\uFF1A\n\
