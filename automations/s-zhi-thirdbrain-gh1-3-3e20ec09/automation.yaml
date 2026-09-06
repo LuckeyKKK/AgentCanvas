@@ -1,9 +1,9 @@
-enabled: false
+enabled: true
 entrypoint: .venv/bin/python main.py
 keep_alive: null
 model: null
-name: "\u3010S-zhi/ThirdBrain\u3011\u9700\u6C42\u5F00\u53D1\uFF08GH1-\u6B65\u9AA4\
-  3\uFF09"
+name: "\u4E34\u65F6\u3010S-zhi/ThirdBrain\u3011\u9700\u6C42\u5F00\u53D1\uFF08GH1-\u6B65\
+  \u9AA43\uFF09"
 preset_metadata:
   preset_type: prompt
   prompt: "# GitHub Issue \u5F00\u53D1\u4E0E PR \u521B\u5EFA\u63D0\u793A\u8BCD\n\n\
@@ -371,6 +371,6 @@ tarball_source:
   url: null
 timeout: 1800
 trigger:
-  schedule: 0 */2 * * *
+  schedule: '*/30 * * * *'
   timezone: Asia/Shanghai
   type: cron
